@@ -19,15 +19,26 @@
     background-color:rgba(0,0,0,0.3);
     padding: 1px;
     line-height: 1%;
-    /* display: flex; */
+    display: flex; 
     text-align: center;
 }
 
 .paragrafo{
     position: relative;
-    max-width: 2000px; 
+    max-width: 3000px; 
     height: auto; 
-    left: 16.4%;
+    left: 12.6%;
     display: flex;   
 }
 
+.text{
+    position: absolute;
+    top: 30%;
+    font-size: 40px;
+    color: white;
+    display: inline-block;
+    text-align: center;
+    border: 4px solid wheat;
+    padding: 8px;
+    background-color:rgba(0,0,0,0.3);  
+}
