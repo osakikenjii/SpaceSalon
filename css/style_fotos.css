@@ -1,5 +1,3 @@
-@charset "UTF-8";
-
 .img-back{
     background: url(../fotos/salon.3.jpg);
     background-repeat: no-repeat;
@@ -13,20 +11,21 @@
     color: white;
     font-size: 20px;
     float: left;
-    width: 36%; 
+    width: auto; 
     margin: 3px 9px;  
     border: 4px solid wheat;
     background-color:rgba(0,0,0,0.3);
-    padding: 0px;
+    padding: 1px;
     line-height: 1%;
-    display: flex;
+/*     display: flex; */
+    text-align: center;
 }
 
 .paragrafo{
     position: relative;
     max-width: 2000px; 
     height: auto; 
-    left: 0%;
+    left: 16.4%;
     display: flex;   
 }
 
