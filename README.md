@@ -12,7 +12,7 @@ victor kenji
 * CSS3
 * JS
 ## Licença
-Este projeto está licenciado sob a licença MIT - Consulte o arquivo LICENSE.md para detalhes.
+Este projeto está licenciado sob a licença MIT - Consulte o arquivo LICENSE.md para mais detalhes.
 # w3c css validator
 <p></p>
 contatos
