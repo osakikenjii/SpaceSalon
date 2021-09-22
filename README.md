@@ -1,5 +1,8 @@
 ![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fosakikenjii.github.io%2FSpaceSalon%2F)
+
 ![W3C Validation](https://img.shields.io/w3c-validation/html?style=for-the-badge&targetUrl=https%3A%2F%2Fosakikenjii.github.io%2FSpaceSalon%2F)
+
+![GitHub](https://img.shields.io/github/license/osakikenjii/SpaceSalon?style=for-the-badge)
 
 # SpaceSalon
 Mini projeto HTML5 e CSS3 - Senac Tatuapé - Victor kenji
