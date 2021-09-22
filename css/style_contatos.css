@@ -40,17 +40,25 @@ form{
     left: 10px;
 }
 
-.paragrafo1{
-    margin: 0px 150px;   
+.paragrafo1{   
+    color: white;
+    font-size: 20px;
+    float: left;
+    width: 33%; 
+    margin: 0px 150px;  
+    border: 4px solid wheat;
+    padding: 2px; 
+    background-color:rgba(0,0,0,0.3);   
 }
 
 .paragrafo{
     position: relative;
     max-width: 2000px; 
     height: auto; 
-    left: 3%;
+    left: 0.6%;
     display: flex;   
 }
+
 
 
 
