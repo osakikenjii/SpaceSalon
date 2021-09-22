@@ -3,22 +3,22 @@
 ![GitHub](https://img.shields.io/github/license/osakikenjii/SpaceSalon?style=for-the-badge)
 
 # w3c css validator
-contatos
-<p>
+contatos<p>
 <a href="http://jigsaw.w3.org/css-validator/check/referer">
     <img style="border:0;width:88px;height:31px"
         src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
         alt="CSS válido!" />
     </a>
 </p>
-fotos
-<p>
+
+fotos<p>
 <a href="http://jigsaw.w3.org/css-validator/check/referer">
     <img style="border:0;width:88px;height:31px"
         src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
         alt="CSS válido!" />
     </a>
 </p>
+
 
 # SpaceSalon
 Mini projeto HTML5 e CSS3 - Senac Tatuapé - Victor kenji
