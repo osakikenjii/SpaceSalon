@@ -3,7 +3,7 @@
 ![GitHub](https://img.shields.io/github/license/osakikenjii/SpaceSalon?style=for-the-badge)
 
 # SpaceSalon
-Mini projeto HTML5 e CSS3 - Senac Tatuapé - Victor kenji
+Mini projeto HTML5, CSS3 e JS - Senac Tatuapé - Victor kenji
 ## Autor
 victor kenji
 ## Construído com
