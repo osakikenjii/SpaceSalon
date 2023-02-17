@@ -4,7 +4,6 @@
 
 # SpaceSalon
 Mini projeto HTML5 e CSS3 - Senac Tatuapé - Victor kenji
-# Site do victor kenji
 ## Autor
 victor kenji
 ## Construído com
